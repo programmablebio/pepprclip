@@ -1,5 +1,5 @@
 # PepPrCLIP
-***De Novo* Generation and Prioritization of Target-Binding Peptide Motifs from Sequence Alone** 
+### *De Novo* Generation and Prioritization of Target-Binding Peptide Motifs from Sequence Alone 
 
 ![pepprclip](https://github.com/programmablebio/pepprclip/blob/main/pepprclip.png?raw=true)
 
